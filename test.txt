@@ -1,0 +1,15 @@
+
+**** server/api/node-server
+node ./server.js
+
+**** client/front-end
+npm run dev
+
+**** ffserver
+sudo ffserver -f ./ffmpeg/server.conf
+
+**** Browser
+ http://localhost:8080
+
+**** recognizer_matcher
+python3 face_recognition_access.py 

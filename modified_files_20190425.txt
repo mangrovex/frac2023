@@ -1,0 +1,9 @@
+cvservices\frac.ini
+webservice\front-end\src\features\log\Log.jsx
+webservice\front-end\src\features\log\Log.css
+webservice\front-end\src\features\camera-feed\CameraFeed.jsx
+webservice\front-end\src\features\camera-feed\CameraFeed.css
+
+webservice\front-end\src\index.jsx
+
+
